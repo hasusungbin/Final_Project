@@ -172,7 +172,7 @@
 
 <hr/>
 
- <h4>[카풀]</h4>
+ <h4>[카풀](성빈)</h4>
 <details>
 <summary>메인페이지 AOS library</summary>
 <div markdown="1">
@@ -278,7 +278,7 @@
 <hr/>
 
 
-<h4>[심부름/대타]</h4>
+<h4>[심부름/대타](성빈)</h4>
 
 <details>
 <summary>심부름/대타 메인페이지</summary>
